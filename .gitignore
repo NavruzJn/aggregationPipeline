@@ -3,3 +3,7 @@ npm-debug.log
 yarn-error.log
 .idea
 .env
+.env
+.idea/vcs.xml
+.idea/misc.xml
+
